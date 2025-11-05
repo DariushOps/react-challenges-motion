@@ -6,15 +6,17 @@ The app provides a clean interface for exploring and managing challenges with sm
 ---
 
 ## ✨ Features
-- 🧭 Multi-page navigation using **React Router**
-- 🎞️ Scroll and page animations powered by **Framer Motion**
-- 🧠 Global state management with **Context API**
-- 🎯 Filter challenges by status: *Active*, *Completed*, *Failed*
-- 📱 Responsive and minimal UI
+
+- Multi-page navigation using **React Router**
+- Scroll and page animations powered by **Framer Motion**
+- Global state management with **Context API**
+- Filter challenges by status: _Active_, _Completed_, _Failed_
+- Responsive and minimal UI
 
 ---
 
 ## 🧩 Tech Stack
+
 - **React (Vite)**
 - **Framer Motion**
 - **React Router DOM**
@@ -24,6 +26,7 @@ The app provides a clean interface for exploring and managing challenges with sm
 ---
 
 ## ⚙️ Getting Started
+
 ```bash
 # Install dependencies
 npm install
@@ -32,7 +35,7 @@ npm install
 npm run dev
 ```
 
-## 🧠 How It Works
+## How It Works
 
 The Welcome Page features parallax scroll animations using useScroll and useTransform.
 
