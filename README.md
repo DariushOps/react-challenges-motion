@@ -5,7 +5,7 @@ The app provides a clean interface for exploring and managing challenges with sm
 
 ---
 
-## ✨ Features
+## Features
 
 - Multi-page navigation using **React Router**
 - Scroll and page animations powered by **Framer Motion**
@@ -15,7 +15,7 @@ The app provides a clean interface for exploring and managing challenges with sm
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 
 - **React (Vite)**
 - **Framer Motion**
@@ -25,7 +25,7 @@ The app provides a clean interface for exploring and managing challenges with sm
 
 ---
 
-## ⚙️ Getting Started
+## Getting Started
 
 ```bash
 # Install dependencies
